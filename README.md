@@ -1,5 +1,5 @@
 # Bing Menu
-#### An Alexa Skill that can tell you the daily menu of any of the four dining halls on the Binghamton University campus.
+#### An Alexa Skill that can tell you the current menu of any of the four dining halls on the Binghamton University campus.
 
 This Alexa Skill uses Node.js to scrape the menu from the Binghamton University menu website, and reads back the meal requested by the user at the dining hall requested by the user.
 
