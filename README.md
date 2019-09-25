@@ -8,7 +8,7 @@ For example, a user may say:
 
 and Alexa would read the current lunch menu for the C4 dining hall.
 
-The Invocation Model of the skill allows the user to ask many different variations of the above sentence without error.
+The Interaction Model of the skill allows the user to ask many different variations of the above sentence without error.
 
 This respository contains the main javascript file that handles the user's request and scrapes the menu data.
 
