@@ -14,4 +14,4 @@ This respository contains the main javascript file that handles the user's reque
 
 <br>
 
-*Note: This skill was never published.*
+*Note: This skill is not currently published*
